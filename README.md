@@ -25,7 +25,7 @@ Consolidated and modernised the product design infrastructure of one of Italy's 
 ### **CPO & Co-Founder** · [Leevia](https://leevia.com)
 *May 2013 – Mar 2023*
 
-Built and shipped 3 distinct product lines: a 30+ product engagement suite, an enterprise loyalty platform (Inter FC, AS Roma, Mercedes, Pirelli, Intesa Sanpaolo) and Leevia Contest API for developers. Owned vision, strategy, roadmap, UX research and design system across all product lines, from 0 to acquisition.
+Built and shipped 3 distinct product lines: a 30+ product marketing engagement suite, an enterprise loyalty platform (Inter FC, AS Roma, Mercedes, Pirelli, Intesa Sanpaolo) and Leevia Contest API for developers. Owned vision, strategy, roadmap, UX research and design system across all product lines, from 0 to acquisition.
 
 ---
 
