@@ -14,14 +14,17 @@ I use AI tools — including Claude — to build internal tools, dashboards and 
 
 ### **Product Manager** · [Quickfisco](https://quickfisco.it)
 *Apr 2025 – May 2026*
+
 B2B SaaS platform for tax management and accounting for Italian freelancers (invoicing, tax filings, compliance). End-to-end discovery and delivery, launched a premium subscription plan, and led go-to-market for a white-label product targeting accounting firms (B2B2B expansion).
 
 ### **Senior Product Design Consultant** · Leading Italian Fintech (NDA)
 *Jul 2024 – Apr 2025*
+
 Consolidated and modernised the product design infrastructure of one of Italy's largest fintech companies. Audited and restructured 3 major component libraries (thousands of components), migrated to Figma Variables & Design Tokens, and defined a unified design system as the single source of truth.
 
 ### **CPO & Co-Founder** · [Leevia](https://leevia.com)
 *May 2013 – Mar 2023*
+
 Built and shipped 3 distinct product lines: a 30+ product engagement suite, an enterprise loyalty platform (Inter FC, AS Roma, Mercedes, Pirelli, Intesa Sanpaolo) and Leevia Contest API for developers. Owned vision, strategy, roadmap, UX research and design system across all product lines, from 0 to acquisition.
 
 ---
