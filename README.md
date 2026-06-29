@@ -12,7 +12,7 @@ I use AI tools — including Claude — to build internal tools, dashboards and 
 
 ## 🧭 Experience
 
-**Product Manager** · [Quickfisco](https://quickfisco.it) · Apr 2025 – Jan 2026
+**Product Manager** · [Quickfisco](https://quickfisco.it) · Apr 2025 – May 2026
 B2B SaaS platform for tax management and accounting for Italian freelancers (invoicing, tax filings, compliance). End-to-end discovery and delivery, launched a premium subscription plan, and led go-to-market for a white-label product targeting accounting firms (B2B2B expansion).
 
 **Senior Product Design Consultant** · Leading Italian Fintech (NDA) · Jul 2024 – Apr 2025
